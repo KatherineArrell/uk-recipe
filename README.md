@@ -1,3 +1,2 @@
 # UK recipes
-Collab
-SWC Newcastle common repo.
+Collaborative list of the best chef in Newcastle
